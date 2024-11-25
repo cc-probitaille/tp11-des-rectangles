@@ -10,6 +10,7 @@
  */
 export class StringCalculator {
   private sum = 0;
+  private nom = "TP?";
 
   /**
    * Ajoute les nombres contenus dans la chaîne d'entrée et retourne la somme totale.
